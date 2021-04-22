@@ -1,4 +1,4 @@
-This project's main aims are to gain hands-on experience in fuzzy matching and to build a mathimatical intuition. 
+This project's main aims are to gain hands-on experience in fuzzy matching and to build a mathematical intuition. 
 
 2 approaches are used:
 - using fuzzymatcher()
@@ -10,8 +10,8 @@ Content:
 1. csv_files folder
 2. results folder
 3. scrnshts_for_math_algs where some screenshots for Levenshtein_Distance_Algorithm.ipynb file are located
-4. code_fuzzy_matching_n_deduplicating.ipynb where the main chunk of code are located
-5. Levenshtein_Distance_Algorithm.ipynb devoted to build a mathimatical intuition.
+4. code_fuzzy_matching_n_deduplicating.ipynb where the main chunk of code is located
+5. Levenshtein_Distance_Algorithm.ipynb devoted to building a mathematical intuition.
 
 Datasets:
 - hospital_reimbursement 
